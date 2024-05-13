@@ -1,0 +1,24 @@
+ul{
+    list-style: none;
+    border: 1px solid black;
+    padding: 1rem;
+    width: fit-content;
+}
+
+li{
+    border: 1px solid black;
+    width: 100px;
+    margin: 0.5rem 0;
+}
+
+.play-zone{
+    width: 400px;
+    height: 900px;
+    display: flex;
+    flex-direction: column;
+}
+
+.play-zone img{
+    height: 200px;
+    width: 200px;
+}
